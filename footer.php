@@ -82,7 +82,7 @@
     <script type="text/javascript" src="js/mdb.min.js"></script>
 
     <script type="text/javascript">
-        $('.carousel').carousel({interval:2000});
+        $('.carousel').carousel({interval:5000});
     </script>
 
 </body>

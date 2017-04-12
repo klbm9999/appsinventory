@@ -34,7 +34,7 @@
 	            <div class="carousel-caption">
 	            
 	                <center>
-	                <ul class="animated fadeInUp col-md-12">
+	                <ul class="animated fadeInLeft col-md-12">
 	                    <li>
 	                    	<h2 style="font-family: lithos" class="h2-responsive black-text">"We make android apps for your business"</h2>
 	                    </li>
@@ -59,7 +59,7 @@
 	            <!-- Caption -->
 	            <div class="carousel-caption">
 	                <center>
-		                <ul class="animated fadeInUp col-md-12">
+		                <ul class="animated fadeInLeft col-md-12">
 		                    <li>
 		                    	<h2 style="font-family: lithos" class="h2-responsive black-text">3+ years of experience</h2>
 		                    	<h2 style="font-family: lithos" class="h2-responsive red-text">5 professionals in team</h2>
@@ -86,7 +86,7 @@
 	            
 	            <div class="carousel-caption">
 		            <center>
-		                <ul class="animated fadeInUp col-md-12">
+		                <ul class="animated fadeInLeft col-md-12">
 		                    <li>
 		                    	<h2 style="font-family:lithos" class="h2-responsive black-text">We make apps with best design & with eye catchy icons</h2>
 		                    </li>
@@ -110,7 +110,7 @@
 	            
 	            <div class="carousel-caption">
 		            <center>
-		                <ul class="animated fadeInUp col-md-12">
+		                <ul class="animated fadeInLeft col-md-12">
 	                        <li>
 	                        	<h3 style="font-family: lithos" class="h3-responsive black-text">We do SEO like ASO that helps your app to reamin on TOP</h3>
 	                        </li>

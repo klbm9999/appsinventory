@@ -1,27 +1,31 @@
 <?php require 'app_template/before_app_name.php'; ?>
-		Apps Backup and Reinstall
+		<!-- @yield('app_name') -->
 <?php require 'app_template/before_app_maker.php'; ?>
-		By Sciencenext
+		<!-- @yield('app_maker') -->
 <?php require 'app_template/before_app_image.php'; ?>
-		apps backup and reinstall.png
+		<!-- @yield('app_image') -->
 <?php require 'app_template/before_app_description.php'; ?>
-		With beautiful glossy design with colorful themes have 500k download worldwide and still counting. One of the most successful player on play store
+		<!-- @yield('app_description') -->
 <?php require 'app_template/before_app_link.php'; ?>
-		https://play.google.com/store/apps/details?id=com.touchfield.appbackuprestore "></a>
+		<!-- @yield('app_link') -->
+<?php require 'app_template/before_link2.php'; ?>
+		<!-- @yield('link2') -->
 <?php require 'app_template/before_img1.php'; ?>
-		images/abar1.png
+		<!-- @yield('img1') -->
 <?php require 'app_template/before_text1.php'; ?>
-		It’s categorized as Top free app in PRODUCTIVITY category on Google play world wide.
+		<!-- @yield('text1') -->
 <?php require 'app_template/before_text2.php'; ?>
-		Apps backup and restore app made with wow teal material design.
+		<!-- @yield('text2') -->
 <?php require 'app_template/before_img2.php'; ?>
-		images/abar2.png
+		<!-- @yield('img2') -->
 <?php require 'app_template/before_img3.php'; ?>
-		images/abar3.png
+		<!-- @yield('img3') -->
 <?php require 'app_template/before_text3.php'; ?>
-		It has more than 50k downloads worldwide and still counting.
+		<!-- @yield('text3') -->
 <?php require 'app_template/before_text4.php'; ?>
-		One of the most successful apps on Play store
+		<!-- @yield('text4') -->
 <?php require 'app_template/before_img4.php'; ?>
-		images/abar4.png
+		<!-- @yield('img4') -->
+<?php require 'app_template/before_extra.php'; ?>
+		<!-- @yield('extra') -->
 <?php require 'footer.php'; ?>
