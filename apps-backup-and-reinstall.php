@@ -7,7 +7,7 @@
 <?php require 'app_templates/before_app_description.php'; ?>
 		With beautiful glossy design with colorful themes have 500k download worldwide and still counting. One of the most successful player on play store
 <?php require 'app_templates/before_app_link.php'; ?>
-		https://play.google.com/store/apps/details?id=com.touchfield.appbackuprestore "></a>
+		https://play.google.com/store/apps/details?id=com.touchfield.appbackuprestore "><img src="images/gplay.png" class="img-fluid"></a>
 <?php require 'app_templates/before_img1.php'; ?>
 		images/abar1.png
 <?php require 'app_templates/before_text1.php'; ?>
@@ -24,4 +24,5 @@
 		One of the most successful apps on Play store
 <?php require 'app_templates/before_img4.php'; ?>
 		images/abar4.png
+<?php require 'app_templates/after_img4.php'; ?>
 <?php require 'footer.php'; ?>

@@ -7,7 +7,7 @@
 <?php require 'app_templates/before_app_description.php'; ?>
 		With beautiful glossy design with colorful themes have 500k download worldwide and still counting. One of the most successful player on play store
 <?php require 'app_templates/before_app_link.php'; ?>
-		https://play.google.com/store/apps/details?id=com.scn.musicplayer "></a>
+		https://play.google.com/store/apps/details?id=com.scn.musicplayer "><img src="images/gplay.png" class="img-fluid"></a>
 
 <?php require 'app_templates/before_img1.php'; ?>
 		images/mp1.png

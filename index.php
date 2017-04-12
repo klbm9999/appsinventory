@@ -143,7 +143,7 @@
 	</div>
 	<!--/.Carousel Wrapper-->
 
-<div class="container-fluid">
+<div class="container">
 	
 	<div class="row">
 		<h3 class="display-4 mx-auto">Services We Provide</h3>
@@ -397,9 +397,9 @@
 	            <!-- Caption -->
 	            <div class="full-bg-img flex-center black-text">
                     <center>
-                		<img src="images/1.png" class="animated fadeInUp img-success">
+                		<img src="images/1.png" class="animated fadeInRight img-success">
                     </center>
-	                <ul class="animated fadeInUp col-md-6">
+	                <ul class="animated fadeInRight col-md-6">
 	                    <li>
 	                    	<h1 class="h1-responsive deep-purple-text">Music Player</h1>
 	                    </li>
@@ -429,9 +429,9 @@
 	            <!-- Caption -->
 	            <div class="full-bg-img flex-center black-text">
                     <center>
-                		<img src="images/2.png" class="animated fadeInUp img-success">
+                		<img src="images/2.png" class="animated fadeInRight img-success">
                     </center>
-	                <ul class="animated fadeInUp col-md-6">
+	                <ul class="animated fadeInRight col-md-6">
 	                    <li>
 	                    	<h1 class="h1-responsive deep-purple-text">Apps Backup and Reinstall</h1>
 	                    </li>
@@ -461,9 +461,9 @@
 	            <!-- Caption -->
 	            <div class="full-bg-img flex-center black-text">
                     <center>
-                		<img src="images/3.png" class="animated fadeInUp img-success">
+                		<img src="images/3.png" class="animated fadeInRight img-success">
                     </center>
-	                <ul class="animated fadeInUp col-md-6">
+	                <ul class="animated fadeInRight col-md-6">
 	                    <li>
 	                    	<h1 class="h1-responsive deep-purple-text">Music Player</h1>
 	                    </li>
@@ -491,9 +491,9 @@
 	            <!-- Caption -->
 	            <div class="full-bg-img flex-center black-text">
                     <center>
-                		<img src="images/4.png" class="animated fadeInUp img-success">
+                		<img src="images/4.png" class="animated fadeInRight img-success">
                     </center>
-	                <ul class="animated fadeInUp col-md-6">
+	                <ul class="animated fadeInRight col-md-6">
 	                    <li>
 	                    	<h1 class="h1-responsive deep-purple-text">System App Remover</h1>
 	                    </li>

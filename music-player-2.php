@@ -1,4 +1,4 @@
-<?php require 'app_templatess/before_app_name.php'; ?>
+<?php require 'app_templates/before_app_name.php'; ?>
 		Music Player
 <?php require 'app_templates/before_app_maker.php'; ?>
 		By TouchField Amazon
@@ -30,4 +30,5 @@
 		People love it more then they have default one on their kindle.
 <?php require 'app_templates/before_img4.php'; ?>
 		images/mp24.png
+<?php require 'app_templates/after_img4.php'; ?>
 <?php require 'footer.php'; ?>

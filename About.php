@@ -1,6 +1,6 @@
 <?php require 'header.php'; ?>
 
-<br><br><br>
+<br><br><br><br>
 	<div class="row">
 		<h3 class="display-3 mx-auto">About Us</h3>
 	</div>
