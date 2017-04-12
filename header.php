@@ -144,10 +144,6 @@
     </nav>
     <!--/.Navbar-->
 
-   @yield('carousel')
-
-    <br>
-
     <!--Content-->
     <div class="container">
         

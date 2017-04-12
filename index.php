@@ -1,5 +1,6 @@
 <?php require 'header.php'; ?>
 
+</div>
 <br><br><br>
 	
 	<style type="text/css">
@@ -142,9 +143,7 @@
 	</div>
 	<!--/.Carousel Wrapper-->
 
-@stop
-
-@section('page_content')
+<div class="container-fluid">
 	
 	<div class="row">
 		<h3 class="display-4 mx-auto">Services We Provide</h3>
