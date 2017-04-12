@@ -34,6 +34,9 @@
 </style>
 
 <div class="row">
+	<h1 class="h4-display mx-auto red-text">This page is under development. Send us a mail at helpappsinventory@gmail.com</h1>
+</div>
+<div class="row">
 	<h4 class="h4-display mx-auto">Tell us more about your project</h4>
 </div>
 <br>
