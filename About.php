@@ -6,7 +6,6 @@
 	</div>
 	<hr>
 	<div class="row row-box flex-center view hm-black-strong">
-		{{-- <div class="mask flex-center"> --}}
 			<div class="col-lg-8">
 				<img src="images/about.jpg" class="img-fluid">
 			</div>	
