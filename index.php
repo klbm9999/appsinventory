@@ -28,11 +28,10 @@
 	    <div class="carousel-inner" role="listbox">
 
 	        <!-- First slide -->
-	        {{-- <div class="carousel-item active view hm-black-light" style="background-image: url('images/snap1.jpg'); background-repeat: no-repeat; background-size: auto 100%; background-position: center;"> --}}
 	        <div class="carousel-item active" style="background-image: url('images/snap1.png'); background-repeat: no-repeat; background-size: 100% 100%; background-position: center;">
 	            <!-- Caption -->
 	            <div class="carousel-caption">
-	            {{-- <div class="carousel-caption"> --}}
+	            
 	                <center>
 	                <ul class="animated fadeInUp col-md-12">
 	                    <li>
@@ -83,7 +82,7 @@
 	        <div class="carousel-item" style="background-image: url('images/snap3.png'); background-repeat: no-repeat; background-size:100% 100%; background-position: center;">
 	        <div class="mask"></div>
 	            <!-- Caption -->
-	            {{-- <div class="full-bg-img flex-center white-text"> --}}
+	            
 	            <div class="carousel-caption">
 		            <center>
 		                <ul class="animated fadeInUp col-md-12">
@@ -107,7 +106,7 @@
 	        <div class="carousel-item" style="background-image: url('images/snap4.png'); background-repeat: no-repeat; background-size:100% 100%; background-position: center;">
 	        <div class="mask"></div>
 	            <!-- Caption -->
-	            {{-- <div class="full-bg-img flex-center white-text"> --}}
+	            
 	            <div class="carousel-caption">
 		            <center>
 		                <ul class="animated fadeInUp col-md-12">
@@ -146,14 +145,14 @@
 @stop
 
 @section('page_content')
-	{{-- SERVICES --}}
+	
 	<div class="row">
 		<h3 class="display-4 mx-auto">Services We Provide</h3>
 	</div>
 	<div class="row">
 		<h4 class="mx-auto">"Apps Inventory makes apps to raise your business globally"</h4>
 	</div>
-	{{-- <br> --}}
+	
 	<hr>
 	<div class="row">
 		<div class="col-lg-2"></div>
@@ -167,7 +166,7 @@
 	<hr>
 	<hr>
 	<br>
-	{{-- OUR APPS --}}
+	
 	<style type="text/css">
 		.img-resize {
 			width: 300px;
