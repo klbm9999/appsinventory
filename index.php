@@ -357,7 +357,7 @@
 	<hr>
 	<br>
 	<div class="row">
-		<h3 class="display-4 mx-auto">Our Successful Clients Say</h3>
+		<h3 class="display-4 mx-auto">Successful Apps of Our Clients</h3>
 	</div>
 	<hr>
 	</div>

@@ -139,6 +139,15 @@
                         <a href="About.php" class="nav-link">About</a>
                     </li>
                 </ul>
+                <ul class="navbar-nav mr-right">
+                    <li class="nav-item" style="margin-right: 50px;">
+                        <a href="https://www.facebook.com/Appsinventroy/"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="https://twitter.com/appsinventory"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
+                    </li>
+                </ul>
             </div>
         </div>
     </nav>
@@ -146,5 +155,5 @@
 
     <!--Content-->
     <div class="container">
-    <br>
+    
         
