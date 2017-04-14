@@ -10,6 +10,21 @@
         <!--Footer Links-->
         <div class="container-fluid">
             <div class="row">
+                <div class="col-md-auto mx-auto">
+                    <i class="fa fa-phone"></i>
+                     &nbsp +91 9998651862
+                </div>
+                <div class="col-md-auto mx-auto">
+                    <i class="fa fa-envelope"></i>
+                     &nbsp helpappsinventory@gmail.com
+                </div>
+                <div class="col-md-auto mx-auto">
+                    <i class="fa fa-question"></i>
+                    &nbsp <a href="Inquiry.php">Inquiry</a>
+                </div>
+            </div>
+            <hr class="white">
+            <div class="row">
 
                 <!--First column-->
                 <div class="col-lg-3 offset-lg-1 hidden-lg-down">
