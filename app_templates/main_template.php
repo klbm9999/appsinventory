@@ -29,3 +29,5 @@
 <?php require 'app_templates/before_extra.php'; ?> or <?php require 'after_img4.php'; ?>
 		<!-- @yield('extra') -->
 <?php require 'footer.php'; ?>
+
+

@@ -26,18 +26,5 @@
 		One of the most successful player on Play store
 <?php require 'app_templates/before_img4.php'; ?>
 		images/mp4.png
-<?php require 'app_templates/before_extra.php'; ?>
-		<br><br>
-		<div class="row row-box flex-center view hm-black-strong">
-			<img src="images/fwbi.jpg" class="img-fluid">
-			<div class="mask flex-center">
-				<div class="col-lg-6 amber-text text-center">
-					<img src="images/mp5.png" class="img-fluid">
-					<small><a href="http://www.freepik.com">Background Designed by Makyzz / Freepik</a></small>
-				</div>
-				<div class="col-lg-6">
-					<img src="images/mp6.png" class="img-fluid">
-				</div>	
-			</div>	
-		</div>
+<?php require 'app_templates/after_img4.php'; ?>
 <?php require 'footer.php'; ?>
