@@ -186,7 +186,7 @@
 
 	            <!--Card image-->
 	            <div class="view overlay hm-white-slight">
-	                <img src="images/music player.png" class="img-resize mx-auto" alt="">
+	                <img src="images/music player.png" class="img-resize mx-auto" alt="music player">
 	                <a href="music-player-1.php">
 	                    <div class="mask"></div>
 	                </a>
@@ -217,7 +217,7 @@
 
 	            <!--Card image-->
 	            <div class="view overlay hm-white-slight">
-	                <img src="images/icon.png" class="img-resize mx-auto" alt="">
+	                <img src="images/icon.png" class="img-resize mx-auto" alt="music-player">
 	                <a href="music-player-2.php">
 	                    <div class="mask"></div>
 	                </a>
@@ -248,7 +248,7 @@
 
 	            <!--Card image-->
 	            <div class="view overlay hm-white-slight">
-	                <img src="images/mathformula.png" class="img-resize mx-auto" alt="">
+	                <img src="images/mathformula.png" class="img-resize mx-auto" alt="mathformula">
 	                <a href="#">
 	                    <div class="mask"></div>
 	                </a>
@@ -279,7 +279,7 @@
 
 			    <!--Card image-->
 			    <div class="view overlay hm-white-slight">
-			        <img src="images/apps backup and reinstall.png" class="img-resize mx-auto" alt="">
+			        <img src="images/apps backup and reinstall.png" class="img-resize mx-auto" alt="apps-backup-and-reinstall">
 			        <a href="apps-backup-and-reinstall.php">
 			            <div class="mask"></div>
 			        </a>
@@ -305,7 +305,7 @@
 
 			    <!--Card image-->
 			    <div class="view overlay hm-white-slight">
-			        <img src="images/system app remover.png" class="img-resize mx-auto" alt="">
+			        <img src="images/system app remover.png" class="img-resize mx-auto" alt="system-app-remover">
 			        <a href="system-app-remover.php">
 			            <div class="mask"></div>
 			        </a>
@@ -331,7 +331,7 @@
 
 			    <!--Card image-->
 			    <div class="view overlay hm-white-slight">
-			        <img src="images/root checker.png" class="img-resize mx-auto" alt="">
+			        <img src="images/root checker.png" class="img-resize mx-auto" alt="rootchecker">
 			        <a href="#">
 			            <div class="mask"></div>
 			        </a>

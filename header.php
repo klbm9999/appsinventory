@@ -6,15 +6,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta author="K.L.Bhanu Moorthy">
-    <meta keyword="AppsInventroy">
-    <meta keyword="System App Remover">
-    <meta keyword="Root Checker">
-    <meta keyword="Music Player">
-    <meta keyword="Music Player amazon">
-    <meta keyword="Apps Backup and reinstall">
-    <meta keyword="all maths formula">
-    <meta keyword="ASO">
+
+    <meta name="description" content="an app development company, which can do ASO also">
+    <meta name="keywords" content="apps-backup-and-reinstall, root-checker, system-app-remover, music-player, appsinventory, all-maths-formula, music-player-2">
+    <meta name="robots" content="index, nofollow">
+    <meta name="web_author" content="K.L.Bhanu Moorthy">
+    <meta name="language" content="English">
+
 
     <title>Apps Inventory</title>
 
