@@ -7,8 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta author="K.L.Bhanu Moorthy">
+    <meta keyword="AppsInventroy">
+    <meta keyword="System App Remover">
+    <meta keyword="Root Checker">
+    <meta keyword="Music Player">
+    <meta keyword="Music Player amazon">
+    <meta keyword="Apps Backup and reinstall">
+    <meta keyword="all maths formula">
+    <meta keyword="ASO">
 
-    <title>Apps Feel</title>
+    <title>Apps Inventory</title>
 
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
     <!-- Font Awesome -->
@@ -21,25 +29,6 @@
     <!-- Material Design Bootstrap -->
     <link href="css/mdb.min.css" rel="stylesheet">
 
-
-    <!-- SCRIPTS -->
-
-    <!-- JQuery -->
-    <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
-
-    <!-- Bootstrap tooltips -->
-    <script type="text/javascript" src="js/tether.min.js"></script>
-
-    <!-- Bootstrap core JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-
-    <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="js/mdb.min.js"></script>
-
-    <script type="text/javascript">
-        $('.carousel').carousel({interval:5000});
-    </script>
-    
 
     <!-- Template styles -->
     <style rel="stylesheet">
@@ -129,6 +118,17 @@
             color: #fff;
         }
 
+        .font-size {
+            font-size: 18px !important;
+        }
+        .navbar>.navbar-collapse>.navbar-nav>.nav-item {
+            margin-right: 10px;
+            margin-left: 10px; 
+        }
+        .carousel-caption {
+            bottom: 0px !important;
+        }
+
     </style>
 
 </head>
@@ -147,16 +147,16 @@
             <div class="collapse navbar-collapse" id="navbarNav1">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link font-size" href="index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Inquiry.php">Inquiry</a>
+                        <a class="nav-link font-size" href="Inquiry.php">Inquiry</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Contact.php">Contact Us</a>
+                        <a class="nav-link font-size" href="Contact.php">Contact Us</a>
                     </li>
                     <li class="nav-item">
-                        <a href="About.php" class="nav-link">About</a>
+                        <a href="About.php" class="nav-link font-size">About</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav mr-right">

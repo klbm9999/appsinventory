@@ -40,7 +40,7 @@
                     <h5 class="title">Recent Apps</h5>
                     <ul>
                         <li><a href="music-player-1.php">Music Player</a></li>
-                        <li><a href="music-player-2.php">Music Player</a></li>
+                        <li><a href="music-player-2.php">Music Player Amazon</a></li>
                         <li><a href="#">Root Checker</a></li>
                         <li><a href="#">All Maths Formula</a></li>
                         <li><a href="system-app-remover.php">System App Remover</a></li>
@@ -80,6 +80,25 @@
 
     </footer>
     <!--/.Footer-->
+
+    <!-- SCRIPTS -->
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/tether.min.js"></script>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.min.js"></script>
+
+    <script type="text/javascript">
+        //$('.carousel').carousel({interval:2000});
+    </script>
+    
 
 </body>
 
