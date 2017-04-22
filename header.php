@@ -18,7 +18,7 @@
 
     <title>Apps Inventory</title>
 
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="images/favi-fin.png" type="image/x-icon" />
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
 
